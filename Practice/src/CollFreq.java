@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
-//author : nupur
+//author : Nupur
 public class CollFreq {
 	 public static void main(String[] args) {
 	
